@@ -44,3 +44,10 @@
     background-size: cover;
     background-position: center;
 }
+
+.Cisco{
+    background-image: url(../assets/cisco.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
