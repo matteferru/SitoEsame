@@ -9,3 +9,38 @@
     background-size: cover;
     background-position: center;
 }
+
+.RycoCiclo {
+    background-image: url(../assets/ricociclo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.SmartCity {
+    background-image: url(../assets/Smarticity2.0.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.WireShark {
+    background-image: url(../assets/Wireshark.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.EduGreen {
+    background-image: url(../assets/edugreen.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.MITM{
+    background-image: url(../assets/MITM.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
