@@ -1,0 +1,11 @@
+.custom-card-dimentions {
+    height: 242px;
+    width: 336px;
+}
+
+.packet-tracer {
+    background-image: url(../assets/pt.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
